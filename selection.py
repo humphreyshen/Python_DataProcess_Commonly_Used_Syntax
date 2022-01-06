@@ -1,5 +1,5 @@
 # Selected by column names
-Df1=Df.loc[:,['Column A','Column B']
+Df1=Df.loc[:,['Column A','Column B']]
            
 # Selected by index      
 Df1=Df.iloc[:,3]
